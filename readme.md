@@ -75,4 +75,4 @@ Executa o aplicativo no modo de desenvolvedor
 npm run dev
 ```
 
-Em seguida já é possível acessar a página localmente através do endereço que vai ser gerado no terminal.
+Em seguida já é possível acessar a página localmente através do endereço que vai ser gerado no terminal....
