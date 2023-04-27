@@ -87,7 +87,7 @@ export const Overview = () => {
   }, [companyLocals, currentLocal, overviewData.length]);
 
   if (currentLocal <= 0) {
-    return <p>Selecione um local</p>;
+    return <h2>Selecione um local</h2>;
   }
 
   if (overviewData.length > 0) {

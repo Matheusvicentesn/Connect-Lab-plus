@@ -1,3 +1,5 @@
+import { ContainerHome } from "./Home.styles";
+
 export const Home = () => {
-  return <h2>Bem vindo</h2>;
+  return <ContainerHome />;
 };
